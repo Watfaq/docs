@@ -6,6 +6,8 @@ edit_uri: https://github.com/Watfaq/docs/blob/master/docs/
 repo_name: clash-rs
 
 theme:
+  logo: artwork/logo.png
+  favicon: artwork/logo.png
   name: material
   features:
     - search.highlight
@@ -55,12 +57,12 @@ markdown_extensions:
   - pymdownx.snippets
 
 nav:
-    - Welcome: index.md
-    - Quick start: 
+  - Welcome: index.md
+  - Quick start:
       - quick-start/index.md
       - CLI: quick-start/cli.md
       - GUI: quick-start/gui.md
-    - Configuration: 
+  - Configuration:
       - config/index.md
       - Full Example: config/full.md
 
@@ -94,7 +96,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-YQC14KYW3F
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Watfaq/clash-rs
