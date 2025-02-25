@@ -1,8 +1,9 @@
 ---
 hide:
-  - navigation
   - toc
+  - navigation
 ---
+
 # 👋Welcome to ClashRS User Manual
 
 
@@ -33,6 +34,6 @@ ClashRS is a network proxy software that you can use to control how you want to 
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-[⌨️Getting set up](quick-start/index.md)
+[⌨️Getting set up](./quick-start/index.md)
 
-[🔨Configuration](config/index.md)
+[🔨Configuration](../config/index.md)
