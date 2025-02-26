@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://docs.watfaq.com/clash/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/config/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/config/full/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/full/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/full/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/config/tun/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/tun/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/tun/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/config/types/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/types/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/types/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/config/inbounds/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/inbounds/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/inbounds/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/config/inbounds/http/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/inbounds/http/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/inbounds/http/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/config/inbounds/socks/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/inbounds/socks/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/inbounds/socks/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/config/inbounds/tunnel/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/inbounds/tunnel/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/inbounds/tunnel/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/config/outbounds/tuic/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/outbounds/tuic/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/outbounds/tuic/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/quick-start/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/quick-start/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/quick-start/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/quick-start/cli/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/quick-start/cli/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/quick-start/cli/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/quick-start/gui/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/quick-start/gui/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/quick-start/gui/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/config/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/config/full/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/full/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/full/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/config/tun/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/tun/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/tun/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/config/types/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/types/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/config/inbounds/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/inbounds/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/inbounds/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/config/inbounds/http/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/inbounds/http/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/inbounds/http/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/config/inbounds/socks/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/inbounds/socks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/inbounds/socks/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/config/inbounds/tunnel/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/inbounds/tunnel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/inbounds/tunnel/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/config/outbounds/tuic/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/config/outbounds/tuic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/config/outbounds/tuic/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/quick-start/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/quick-start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/quick-start/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/quick-start/cli/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/quick-start/cli/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/quick-start/cli/"/>
+    </url>
+    <url>
+        <loc>https://docs.watfaq.com/clash/zh/quick-start/gui/</loc>
+        <lastmod>2025-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.watfaq.com/clash/zh/quick-start/gui/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.watfaq.com/clash/quick-start/gui/"/>
+    </url>
+</urlset>
