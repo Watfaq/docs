@@ -1,4 +1,4 @@
-# watfaq.github.io
+# docs.watfaq.com/clash
 
 ## Development
 
